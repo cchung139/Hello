@@ -1,1 +1,2 @@
-textwindoe.writeline("Hello Word"
+textwindoe.writeline("Hello Word")
+// It is a remark //
